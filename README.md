@@ -11,16 +11,16 @@ Welcome to the **Study Notes App**, an Android app designed to provide quick acc
 ## 📱 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](https://i.imgur.com/ON55HFi.jpeg)
 
 ### 📋 Class 12 Subjects Screen
-![Class 12 Subjects](screenshots/class_12.png)
+![Class 12 Subjects](https://i.imgur.com/pBo7f36.jpeg)
 
 ### 📚 Class 11 Subjects Screen
-![Class 11 Subjects](screenshots/class_11.png)
+![Class 11 Subjects](https://i.imgur.com/PAA8ndo.jpeg)
 
 ## 🔖 App Logo
-![App Logo](logo/app_logo.png)
+![App Logo](https://i.imgur.com/td9J8vG.png)
 
 ## 🎯 How to Use
 1. 📥 **Download** the APK file to install the app on your Android device.
